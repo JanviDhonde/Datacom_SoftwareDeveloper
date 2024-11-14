@@ -1,7 +1,7 @@
 ## Datacom Software Development Job Simulation
 
 **Datacom_SoftwareDeveloper:** <br>
-I recently completed Datacom's Software Development Job Simulation on Forage, where I reviewed a web application, identified and fixed bugs, and planned future improvements. This experience enhanced my skills in critical thinking, root cause analysis, and software development. I'm excited to apply these skills in real-world projects.
+I recently completed Datacom's Software Development Job Simulation on Forage, where I reviewed a web application, identified and fixed bugs, and planned future improvements. This experience enhanced my skills in critical thinking, root cause analysis, and software development. I'm excited to apply these skills in real-world projects..
 
 **Repository Overview:**  
 This repository documents my participation in the **Datacom Software Development Job Simulation** on the Forage platform. The simulation provided valuable insight into how Datacom's software development team approaches web application development, bug fixing, and system improvements. I worked on reviewing a web application, identifying bugs, and implementing fixes in a real-world context, which allowed me to sharpen my critical thinking and software development skills.
