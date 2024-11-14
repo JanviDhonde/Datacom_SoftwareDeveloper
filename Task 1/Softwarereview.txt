@@ -1,0 +1,13 @@
+Bugs
+
+When clicking on a cinema on the map, the map does not snap to its location and no information about the cinema is displayed.
+When clicking on countries to filter by, the header of the country filter is not fixed to the top of the column causing overlapping of content when scrolling.
+When switching the mapping library, the application hangs in a modal state with a dark screen, the user has to click away to return the screen to normal.
+The map allows movement across the entire world, when it should keep a fixed boundary around the 2 valid regions, Australia and New Zealand. 
+New features
+
+More options to filter cinemas in the right side panel, for example products available to purchase, ticket prices, cinema rating scores, distance from your location.
+The user should be able to view detailed information about a cinema including film showings, images and customer reviews.
+Improve the styling of the application to be more suitable for a cinema.
+Use the user's current location when the page loads to show a personalised map.
+Add functionality for a user to make a booking once they’ve found a film and a cinema that they like.
